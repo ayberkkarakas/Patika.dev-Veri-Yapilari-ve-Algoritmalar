@@ -12,7 +12,7 @@
 
 **2. Big-O gösterimi:** O(n^2)
 
-**3. Time Complexity:**
+**3. Time Complexity:**\
 Average Case: O(n^2)\
 Worst Case: O(n^2)\
 Best Case: O(n)
