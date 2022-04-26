@@ -13,9 +13,9 @@
 **2. Big-O gösterimi:** O(n^2)
 
 **3. Time Complexity:**
-Average Case: O(n^2)
-Worst Case: O(n^2)
-Best Case: O(n)
+Average Case: O(n^2)\
+Worst Case: O(n^2)\
+Best Case: O(n)\
 
 **4. Dizi sıralandıktan sonra 18 sayısı "Worst Case" kapsamına girer.**
 
