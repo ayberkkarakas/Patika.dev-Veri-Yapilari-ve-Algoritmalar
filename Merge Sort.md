@@ -20,5 +20,5 @@
 - 16 ve 22 karşılaştırması sonucu dizinin dördüncü terimi 16 olur. `[8, 11, 12, 16]`
 - 21 ve 22 karşılaştırması sonucu dizinin 5. terimi 21 olur. `[8, 11, 12, 16, 21]`
 - Sona kalan 22 de dizinin sonuncu terimi olur.  `[8, 11, 12, 16, 21, 22]`
-- 
+
 **2. Big-O gösterimi:** O(n*log n)
